@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: white;
+  margin-top: -2rem;
+}
+.users-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.title {
+  color: #e68e3b;
+  padding: 2rem;
+}
+
+.pokemoCard {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
